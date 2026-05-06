@@ -1,7 +1,30 @@
 📊 **Sales Dashboard of Year 2024–2025**
 
-An interactive Power BI dashboard tracking computer hardware sales across India for FY 2024–2025, with supervisor-level filtering across 13 product categories, 10+ brands, and all Indian states.
+## 🏷️ Badges
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-blue)
+![Data Visualization](https://img.shields.io/badge/Data-Visualization-orange)
+![Business Intelligence](https://img.shields.io/badge/BI-Business%20Intelligence-purple)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Domain](https://img.shields.io/badge/Domain-Retail%20Sales-red)
+![Country](https://img.shields.io/badge/Region-India-lightgrey)
+![Tool](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
+
+## 🏷️ Topics
+
+`power-bi` `sales-dashboard` `data-analytics` `data-visualization`  
+`business-intelligence` `dashboard` `kpi-dashboard` `interactive-dashboard`  
+`data-analysis` `microsoft-power-bi` `retail-analytics` `india-sales`  
+`reporting` `analytics` `data-storytelling`
+
+
+
+An interactive Power BI dashboard tracking computer hardware sales across India for FY 2024–2025, with supervisor-level filtering across 13 product categories, 10+ brands, and all Indian states.
+ 
 
 
 
